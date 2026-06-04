@@ -83,7 +83,7 @@ If `ANTHROPIC_API_KEY` is empty, the app still runs and uses heuristic coaching.
 
 ## Screenshots / Results Preview
 
-TODO: add screenshots for the dashboard, CSV import and AI/heuristic coach panel.
+![Finance Tracker dashboard](docs/assets/finance-tracker-dashboard.png)
 
 ## Limitations / 当前限制
 
