@@ -202,7 +202,7 @@ export default function Dashboard() {
       </section>
 
       <footer className="mt-10 pb-6 text-center text-xs text-zinc-500">
-        Data lives in your browser (localStorage). The AI coach calls Claude server-side.
+        Built by Shiyun Ni. Data stays in your browser; the optional coach runs server-side when an API key is set.
       </footer>
     </main>
   );

@@ -1,6 +1,7 @@
 {
   "name": "finance-tracker",
   "version": "0.1.0",
+  "author": "Shiyun Ni",
   "private": true,
   "scripts": {
     "dev": "next dev",
